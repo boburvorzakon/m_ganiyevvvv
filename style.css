@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background-color: blue;
+}
+.box_1{
+    color: green;
+}
+.box_2{
+    color: red;
+}
+
+.box_3{
+    color: yellow;
+}
+.box_4{
+    color: green;
+}
+.box_5{
+    color: grey;
+}
+
+div{
+    width: 600px;
+    height: 100px;
+    text-align: center;
+}
+.box_6{
+    width: 130px;
+    height: 30px;
+    background-color: rgb(33, 213, 33);
+}
+
+
+
+
